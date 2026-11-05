@@ -1,0 +1,17 @@
+{
+  "name": "Qazaqify — музыка",
+  "short_name": "Qazaqify",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#101010",
+  "description": "Тәуелсіз әртістердің музыкасын тыңда",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
